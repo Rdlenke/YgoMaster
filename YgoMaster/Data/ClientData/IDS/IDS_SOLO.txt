@@ -1942,3 +1942,11 @@ Playmaker VS Ai
 Separate Ways (reverse duel)
 
 Playmaker VS Ai
+[IDS_SOLO.GATE010]
+Test Gate for Dummies (me)
+
+[IDS_SOLO.GATE010_EXPLANATION]]
+Duels for dummies (me)
+
+[IDS_SOLO.CHAPTER100001_EXPLANATION]
+Chapter for dummies (me)
