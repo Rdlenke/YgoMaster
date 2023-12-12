@@ -1,0 +1,8 @@
+[IDS_ITEMDESC.ID1120901]
+Starter Deck: Kaiba
+[IDS_ITEMDESC.ID1120902]
+Starter Deck: Yugi
+[IDS_ITEMDESC.ID1120903]
+Starter Deck: Pegasus
+[IDS_ITEMDESC.ID1120904]
+Starter Deck: Joey

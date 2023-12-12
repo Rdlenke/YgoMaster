@@ -1,0 +1,1944 @@
+[IDS_SOLO.GATE004]
+Yu-Gi-Oh!
+[IDS_SOLO.GATE004_EXPLANATION]]
+Duels featuring cards from Yu-Gi-Oh!
+[IDS_SOLO.CHAPTER40001_EXPLANATION]
+The Duelist Kingdom
+
+Help Yugi Muto explain the rules of Duel Monsters to Joey Wheeler.
+
+Yugi Muto VS Joey Wheeler
+[IDS_SOLO.CHAPTER40002_EXPLANATION]
+The Duelist Kingdom (reverse duel)
+
+Help Yugi Muto explain the rules of Duel Monsters to Joey Wheeler.
+
+Yugi Muto VS Joey Wheeler
+[IDS_SOLO.CHAPTER40003_EXPLANATION]
+The Heart of the Cards
+
+Seto Kaiba defeated Solomon Muto and has destroyed his rare Blue-Eyes White Dragon card!
+
+Yami Yugi VS Seto Kaiba
+[IDS_SOLO.CHAPTER40004_EXPLANATION]
+The Heart of the Cards (reverse duel)
+
+Seto Kaiba defeated Solomon Muto and has destroyed his rare Blue-Eyes White Dragon card!
+
+Yami Yugi VS Seto Kaiba
+[IDS_SOLO.CHAPTER40005_EXPLANATION]
+The Ultimate Great Moth
+
+The Duelist Tournament has begun! In the first round it is Yugi Muto versus the underhanded and sneaky Weevil Underwood.
+
+Yami Yugi VS Weevil Underwood
+[IDS_SOLO.CHAPTER40006_EXPLANATION]
+The Ultimate Great Moth (reverse duel)
+
+The Duelist Tournament has begun! In the first round it is Yugi Muto versus the underhanded and sneaky Weevil Underwood.
+
+Yami Yugi VS Weevil Underwood
+[IDS_SOLO.CHAPTER40007_EXPLANATION]
+The Harpie Lady
+
+Joey Wheeler faces off against Mai Valentine in his first duel in the tournament.
+
+Joey Wheeler VS Mai Valentine
+[IDS_SOLO.CHAPTER40008_EXPLANATION]
+The Harpie Lady (reverse duel)
+
+Joey Wheeler faces off against Mai Valentine in his first duel in the tournament.
+
+Joey Wheeler VS Mai Valentine
+[IDS_SOLO.CHAPTER40009_EXPLANATION]
+Attack from the Deep
+
+Yugi Muto encounters the mighty fisherman, Mako Tusnami.
+
+Yami Yugi VS Mako Tsunami
+[IDS_SOLO.CHAPTER40010_EXPLANATION]
+Attack from the Deep (reverse duel)
+
+Yugi Muto encounters the mighty fisherman, Mako Tusnami.
+
+Yami Yugi VS Mako Tsunami
+[IDS_SOLO.CHAPTER40011_EXPLANATION]
+The Dinosaur Duelist
+
+Joey Wheeler goes up against Rex Raptor.
+
+Joey Wheeler VS Rex Raptor
+[IDS_SOLO.CHAPTER40012_EXPLANATION]
+The Dinosaur Duelist (reverse duel)
+
+Joey Wheeler goes up against Rex Raptor.
+
+Joey Wheeler VS Rex Raptor
+[IDS_SOLO.CHAPTER40013_EXPLANATION]
+Evil Spirit of the Ring
+
+Ring
+
+Yami Yugi VS Yami Bakura
+[IDS_SOLO.CHAPTER40014_EXPLANATION]
+Evil Spirit of the Ring (reverse duel)
+
+Ring
+
+Yami Yugi VS Yami Bakura
+[IDS_SOLO.CHAPTER40015_EXPLANATION]
+PaniK Attack
+
+Yugi Muto encountersThe deadly Player Killer, PaniK who has been sent to eliminate other duelists from the tournament
+
+Yami Yugi VS PaniK
+[IDS_SOLO.CHAPTER40016_EXPLANATION]
+PaniK Attack (reverse duel)
+
+Yugi Muto encountersThe deadly Player Killer, PaniK who has been sent to eliminate other duelists from the tournament
+
+Yami Yugi VS PaniK
+[IDS_SOLO.CHAPTER40017_EXPLANATION]
+Arena of Lost Souls
+
+Arena of Lost Souls
+
+Joey Wheeler VS Bonz
+[IDS_SOLO.CHAPTER40018_EXPLANATION]
+Arena of Lost Souls (reverse duel)
+
+Arena of Lost Souls
+
+Joey Wheeler VS Bonz
+[IDS_SOLO.CHAPTER40019_EXPLANATION]
+The Face Off
+
+Seto Kaiba and Yugi Muto duel to see who will enter Pegasus Castle and the final round.
+
+Seto Kaiba VS Yami Yugi
+[IDS_SOLO.CHAPTER40020_EXPLANATION]
+The Face Off (reverse duel)
+
+Seto Kaiba and Yugi Muto duel to see who will enter Pegasus Castle and the final round.
+
+Seto Kaiba VS Yami Yugi
+[IDS_SOLO.CHAPTER40021_EXPLANATION]
+A Duel of Tears
+
+Tea Gardner duels Mai Valentine so that she can win Star Chips for Yugi Muto.
+
+Téa Gardner VS Mai Valentine
+[IDS_SOLO.CHAPTER40022_EXPLANATION]
+A Duel of Tears (reverse duel)
+
+Tea Gardner duels Mai Valentine so that she can win Star Chips for Yugi Muto.
+
+Téa Gardner VS Mai Valentine
+[IDS_SOLO.CHAPTER40023_EXPLANATION]
+Champion vs. Creator
+
+Champion vs. Creator
+
+Maximillion Pegasus VS Seto Kaiba
+[IDS_SOLO.CHAPTER40024_EXPLANATION]
+Champion vs. Creator (reverse duel)
+
+Champion vs. Creator
+
+Maximillion Pegasus VS Seto Kaiba
+[IDS_SOLO.CHAPTER40025_EXPLANATION]
+Duel Identity
+
+The Duelist Kingdom finals have begun and the first round is between Yugi Muto and Mai Valentine.
+
+Yami Yugi VS Mai Valentine
+[IDS_SOLO.CHAPTER40026_EXPLANATION]
+Duel Identity (reverse duel)
+
+The Duelist Kingdom finals have begun and the first round is between Yugi Muto and Mai Valentine.
+
+Yami Yugi VS Mai Valentine
+[IDS_SOLO.CHAPTER40027_EXPLANATION]
+Keith's Machinations
+
+Joey Wheeler is supposed to duel Bandit Keith but he can't find his entry card!
+
+Joey Wheeler VS Bandit Keith
+[IDS_SOLO.CHAPTER40028_EXPLANATION]
+Keith's Machinations (reverse duel)
+
+Joey Wheeler is supposed to duel Bandit Keith but he can't find his entry card!
+
+Joey Wheeler VS Bandit Keith
+[IDS_SOLO.CHAPTER40029_EXPLANATION]
+Best Friends, Best Duelists
+
+Yugi and Joey duel to see who will go up against Maxmillion Pegasus in the final duel.
+
+Yami Yugi VS Joey Wheeler
+[IDS_SOLO.CHAPTER40030_EXPLANATION]
+Best Friends, Best Duelists (reverse duel)
+
+Yugi and Joey duel to see who will go up against Maxmillion Pegasus in the final duel.
+
+Yami Yugi VS Joey Wheeler
+[IDS_SOLO.CHAPTER40031_EXPLANATION]
+The Match of the Millennium
+
+In the final duel of the Duelist Kingdom tournament there is much more on the line than just the title of King of the Games.
+
+Yami Yugi VS Maximillion Pegasus
+[IDS_SOLO.CHAPTER40032_EXPLANATION]
+The Match of the Millennium (reverse duel)
+
+In the final duel of the Duelist Kingdom tournament there is much more on the line than just the title of King of the Games.
+
+Yami Yugi VS Maximillion Pegasus
+[IDS_SOLO.CHAPTER40033_EXPLANATION]
+The Mystery Duelist
+
+A mysterious fortune teller has stolen Yugi's Millennium Puzzle and he must duel him to get it back.
+
+Yugi Muto VS Bandit Keith
+[IDS_SOLO.CHAPTER40034_EXPLANATION]
+The Mystery Duelist (reverse duel)
+
+A mysterious fortune teller has stolen Yugi's Millennium Puzzle and he must duel him to get it back.
+
+Yugi Muto VS Bandit Keith
+[IDS_SOLO.CHAPTER40035_EXPLANATION]
+Battle City Begins
+
+The Battle City Tournament has begun! Yugi duels a Rare Hunter to get one of Joey's cards back.
+
+Yami Yugi VS Seeker
+[IDS_SOLO.CHAPTER40036_EXPLANATION]
+Battle City Begins (reverse duel)
+
+The Battle City Tournament has begun! Yugi duels a Rare Hunter to get one of Joey's cards back.
+
+Yami Yugi VS Seeker
+[IDS_SOLO.CHAPTER40037_EXPLANATION]
+The Master of Magicians
+
+Yugi has been led to a Mystic Box and into an underground chamber where he must duel one of The Rare Hunters, Arkana!
+
+Yami Yugi VS Arkana
+[IDS_SOLO.CHAPTER40038_EXPLANATION]
+The Master of Magicians (reverse duel)
+
+Yugi has been led to a Mystic Box and into an underground chamber where he must duel one of The Rare Hunters, Arkana!
+
+Yami Yugi VS Arkana
+[IDS_SOLO.CHAPTER40039_EXPLANATION]
+Playing with a Parasite
+
+Battle City continues as Joey duels Weevil Underwood, who is still up to is old tricks.
+
+Joey Wheeler VS Weevil Underwood
+[IDS_SOLO.CHAPTER40040_EXPLANATION]
+Playing with a Parasite (reverse duel)
+
+Battle City continues as Joey duels Weevil Underwood, who is still up to is old tricks.
+
+Joey Wheeler VS Weevil Underwood
+[IDS_SOLO.CHAPTER40041_EXPLANATION]
+Mime Control
+
+Yugi encounters a mime called Strings, who is in posession of a very powerful card.
+
+Yami Yugi VS Strings
+[IDS_SOLO.CHAPTER40042_EXPLANATION]
+Mime Control (reverse duel)
+
+Yugi encounters a mime called Strings, who is in posession of a very powerful card.
+
+Yami Yugi VS Strings
+[IDS_SOLO.CHAPTER40043_EXPLANATION]
+The Dark Spirit Revealed
+
+The Battle City quarter-finals have started and the first duel is between Yugi and Bakura.
+
+Yami Yugi VS Yami Bakura
+[IDS_SOLO.CHAPTER40044_EXPLANATION]
+The Dark Spirit Revealed (reverse duel)
+
+The Battle City quarter-finals have started and the first duel is between Yugi and Bakura.
+
+Yami Yugi VS Yami Bakura
+[IDS_SOLO.CHAPTER40045_EXPLANATION]
+The Awakening of Evil
+
+Joey has been randomly selected to duel Odion, the adopted brother of Marki and Ishizu
+
+Joey Wheeler VS Odion
+[IDS_SOLO.CHAPTER40046_EXPLANATION]
+The Awakening of Evil (reverse duel)
+
+Joey has been randomly selected to duel Odion, the adopted brother of Marki and Ishizu
+
+Joey Wheeler VS Odion
+[IDS_SOLO.CHAPTER40047_EXPLANATION]
+A Duel with Destiny
+
+Seto Kaiba faces off against Ishizu Ishtar in the last duel of The Battle City quarter-finals
+
+Seto Kaiba VS Ishizu Ishtar
+[IDS_SOLO.CHAPTER40048_EXPLANATION]
+A Duel with Destiny (reverse duel)
+
+Seto Kaiba faces off against Ishizu Ishtar in the last duel of The Battle City quarter-finals
+
+Seto Kaiba VS Ishizu Ishtar
+[IDS_SOLO.CHAPTER40049_EXPLANATION]
+Clash in the Colosseum
+
+Yugi is up against Seto Kaiba in The Battle City semi-finals.
+
+Yami Yugi VS Seto Kaiba
+[IDS_SOLO.CHAPTER40050_EXPLANATION]
+Clash in the Colosseum (reverse duel)
+
+Yugi is up against Seto Kaiba in The Battle City semi-finals.
+
+Yami Yugi VS Seto Kaiba
+[IDS_SOLO.CHAPTER40051_EXPLANATION]
+The Final Face Off
+
+It is the final duel of The Battle City tournament with Yugi dueling against Marik.
+
+Yami Yugi VS Yami Marik
+[IDS_SOLO.CHAPTER40052_EXPLANATION]
+The Final Face Off (reverse duel)
+
+It is the final duel of The Battle City tournament with Yugi dueling against Marik.
+
+Yami Yugi VS Yami Marik
+[IDS_SOLO.CHAPTER40053_EXPLANATION]
+A New Evil
+
+Joey Wheeler VS Mai Valentine
+[IDS_SOLO.CHAPTER40054_EXPLANATION]
+A New Evil (reverse duel)
+
+Joey Wheeler VS Mai Valentine
+[IDS_SOLO.CHAPTER40055_EXPLANATION]
+Deja Duel
+
+Seto Kaiba VS Alister
+[IDS_SOLO.CHAPTER40056_EXPLANATION]
+Deja Duel (reverse duel)
+
+Seto Kaiba VS Alister
+[IDS_SOLO.CHAPTER40057_EXPLANATION]
+Fighting for a Friend
+
+Joey Wheeler VS Valon
+[IDS_SOLO.CHAPTER40058_EXPLANATION]
+Fighting for a Friend (reverse duel)
+
+Joey Wheeler VS Valon
+[IDS_SOLO.CHAPTER40059_EXPLANATION]
+Grappling with a Guardian
+
+Yami Yugi VS Rafael
+[IDS_SOLO.CHAPTER40060_EXPLANATION]
+Grappling with a Guardian (reverse duel)
+
+Yami Yugi VS Rafael
+[IDS_SOLO.CHAPTER40061_EXPLANATION]
+A Duel with Dartz!
+
+Yami Yugi VS Dartz
+[IDS_SOLO.CHAPTER40062_EXPLANATION]
+A Duel with Dartz! (reverse duel)
+
+Yami Yugi VS Dartz
+[IDS_SOLO.CHAPTER40063_EXPLANATION]
+The Final Duel
+
+With the Millennium Items returned and seet, Yugi duels against The Pharaoh Atem in the final ritual.
+
+Yugi Muto VS Yami Yugi
+[IDS_SOLO.CHAPTER40064_EXPLANATION]
+The Final Duel (reverse duel)
+
+With the Millennium Items returned and seet, Yugi duels against The Pharaoh Atem in the final ritual.
+
+Yugi Muto VS Yami Yugi
+[IDS_SOLO.GATE005]
+Yu-Gi-Oh! GX
+[IDS_SOLO.GATE005_EXPLANATION]]
+Duels featuring cards from Yu-Gi-Oh! GX
+[IDS_SOLO.CHAPTER50001_EXPLANATION]
+The Next King of Games
+
+Jaden Yuki has been given a chance to enter the most prestigious Duel Academy in the world.
+
+Jaden Yuki VS Dr. Vellian Crowler
+[IDS_SOLO.CHAPTER50002_EXPLANATION]
+The Next King of Games (reverse duel)
+
+Jaden Yuki has been given a chance to enter the most prestigious Duel Academy in the world.
+
+Jaden Yuki VS Dr. Vellian Crowler
+[IDS_SOLO.CHAPTER50003_EXPLANATION]
+A Duel in Love
+
+Dr. Crowler tries to get revenge on Jaden for making a mockery of him in the entrance duel.
+
+Jaden Yuki VS Alexis Rhodes
+[IDS_SOLO.CHAPTER50004_EXPLANATION]
+A Duel in Love (reverse duel)
+
+Dr. Crowler tries to get revenge on Jaden for making a mockery of him in the entrance duel.
+
+Jaden Yuki VS Alexis Rhodes
+[IDS_SOLO.CHAPTER50005_EXPLANATION]
+The Shadow Duelist
+
+Jaden and his friends encounter a shadowy figure while exploring an abandoned dorm.
+
+Jaden Yuki VS Titan
+[IDS_SOLO.CHAPTER50006_EXPLANATION]
+The Shadow Duelist (reverse duel)
+
+Jaden and his friends encounter a shadowy figure while exploring an abandoned dorm.
+
+Jaden Yuki VS Titan
+[IDS_SOLO.CHAPTER50007_EXPLANATION]
+For the Sake of Syrus
+
+Jaden duels Zane in an attempt to cheer Syrus up.
+
+Zane Truesdale VS Jaden Yuki
+[IDS_SOLO.CHAPTER50008_EXPLANATION]
+For the Sake of Syrus (reverse duel)
+
+Jaden duels Zane in an attempt to cheer Syrus up.
+
+Zane Truesdale VS Jaden Yuki
+[IDS_SOLO.CHAPTER50009_EXPLANATION]
+Formula for Success
+
+FormulaForSuccess
+
+Bastion Misawa VS Chazz Princeton
+[IDS_SOLO.CHAPTER50010_EXPLANATION]
+Formula for Success (reverse duel)
+
+FormulaForSuccess
+
+Bastion Misawa VS Chazz Princeton
+[IDS_SOLO.CHAPTER50011_EXPLANATION]
+Doomsday Duel
+
+DoomsdayDuel
+
+Jaden Yuki VS Masked Atticus
+[IDS_SOLO.CHAPTER50012_EXPLANATION]
+Doomsday Duel (reverse duel)
+
+DoomsdayDuel
+
+Jaden Yuki VS Masked Atticus
+[IDS_SOLO.CHAPTER50013_EXPLANATION]
+Field of Screams
+
+FieldOfScreams
+
+Jaden Yuki VS Camula
+[IDS_SOLO.CHAPTER50014_EXPLANATION]
+Field of Screams (reverse duel)
+
+FieldOfScreams
+
+Jaden Yuki VS Camula
+[IDS_SOLO.CHAPTER50015_EXPLANATION]
+Duel Distractions
+
+DuelDistractions
+
+Jaden Yuki VS Tania
+[IDS_SOLO.CHAPTER50016_EXPLANATION]
+Duel Distractions (reverse duel)
+
+DuelDistractions
+
+Jaden Yuki VS Tania
+[IDS_SOLO.CHAPTER50017_EXPLANATION]
+A Reason to Win
+
+AReasonToWin
+
+Alexis Rhodes VS Titan
+[IDS_SOLO.CHAPTER50018_EXPLANATION]
+A Reason to Win (reverse duel)
+
+AReasonToWin
+
+Alexis Rhodes VS Titan
+[IDS_SOLO.CHAPTER50019_EXPLANATION]
+Amnaels Endgame
+
+AmnaelsEndgame
+
+Jaden Yuki VS Amnael
+[IDS_SOLO.CHAPTER50020_EXPLANATION]
+Amnaels Endgame (reverse duel)
+
+AmnaelsEndgame
+
+Jaden Yuki VS Amnael
+[IDS_SOLO.CHAPTER50021_EXPLANATION]
+Rise of the Sacred Beasts
+
+RiseOfTheSacredBeasts
+
+Jaden Yuki VS Kagemaru
+[IDS_SOLO.CHAPTER50022_EXPLANATION]
+Rise of the Sacred Beasts (reverse duel)
+
+RiseOfTheSacredBeasts
+
+Jaden Yuki VS Kagemaru
+[IDS_SOLO.CHAPTER50023_EXPLANATION]
+Magna Chum Laude
+
+Magna Chum Laude
+
+Dr. Vellian Crowler VS Chumley Huffington
+[IDS_SOLO.CHAPTER50024_EXPLANATION]
+Magna Chum Laude (reverse duel)
+
+Magna Chum Laude
+
+Dr. Vellian Crowler VS Chumley Huffington
+[IDS_SOLO.CHAPTER50025_EXPLANATION]
+The Graduation Match
+
+Zane Truesdale as finished at the top of the class and has choosen to duel Jaden Yuki at the prestigious graduation match.
+
+Jaden Yuki VS Zane Truesdale
+[IDS_SOLO.CHAPTER50026_EXPLANATION]
+The Graduation Match (reverse duel)
+
+Zane Truesdale as finished at the top of the class and has choosen to duel Jaden Yuki at the prestigious graduation match.
+
+Jaden Yuki VS Zane Truesdale
+[IDS_SOLO.CHAPTER50027_EXPLANATION]
+A New Breed of Hero
+
+A top-ranked duelist has come to Duel Academy and duels Jaden.
+
+Aster Phoenix VS Jaden Yuki
+[IDS_SOLO.CHAPTER50028_EXPLANATION]
+A New Breed of Hero (reverse duel)
+
+A top-ranked duelist has come to Duel Academy and duels Jaden.
+
+Aster Phoenix VS Jaden Yuki
+[IDS_SOLO.CHAPTER50029_EXPLANATION]
+Schooling the Master
+
+Zane Truesdale VS Chancellor Sheppard
+[IDS_SOLO.CHAPTER50030_EXPLANATION]
+Schooling the Master (reverse duel)
+
+Zane Truesdale VS Chancellor Sheppard
+[IDS_SOLO.CHAPTER50031_EXPLANATION]
+Blinded by the Light
+
+Jaden duels Chazz with Chazz's Ojama cards hoping to free him from The Society of Light.
+
+Jaden Yuki VS Chazz Princeton
+[IDS_SOLO.CHAPTER50032_EXPLANATION]
+Blinded by the Light (reverse duel)
+
+Jaden duels Chazz with Chazz's Ojama cards hoping to free him from The Society of Light.
+
+Jaden Yuki VS Chazz Princeton
+[IDS_SOLO.CHAPTER50033_EXPLANATION]
+Duel for Hire
+
+Maximillion Pegasus VS Dr. Vellian Crowler
+[IDS_SOLO.CHAPTER50034_EXPLANATION]
+Duel for Hire (reverse duel)
+
+Maximillion Pegasus VS Dr. Vellian Crowler
+[IDS_SOLO.CHAPTER50035_EXPLANATION]
+Heart of Ice
+
+Jaden finds that more and more people are being controlled by the society of light. He must duel Alexis to free her from their grasp.
+
+Jaden Yuki VS Alexis Rhodes
+[IDS_SOLO.CHAPTER50036_EXPLANATION]
+Heart of Ice (reverse duel)
+
+Jaden finds that more and more people are being controlled by the society of light. He must duel Alexis to free her from their grasp.
+
+Jaden Yuki VS Alexis Rhodes
+[IDS_SOLO.CHAPTER50037_EXPLANATION]
+Tough Love
+
+Zane duels Syrus
+
+Zane Truesdale VS Syrus Truesdale
+[IDS_SOLO.CHAPTER50038_EXPLANATION]
+Tough Love (reverse duel)
+
+Zane duels Syrus
+
+Zane Truesdale VS Syrus Truesdale
+[IDS_SOLO.CHAPTER50039_EXPLANATION]
+The Hand of Justice
+
+Jaden must defeat Sartorius in order to save the world.
+
+Jaden Yuki VS Sartorius Kumar
+[IDS_SOLO.CHAPTER50040_EXPLANATION]
+The Hand of Justice (reverse duel)
+
+Jaden must defeat Sartorius in order to save the world.
+
+Jaden Yuki VS Sartorius Kumar
+[IDS_SOLO.CHAPTER50041_EXPLANATION]
+Future Changes
+
+Final round of the GX tournament has begun and it is Chazz up against Blair.
+
+Chazz Princeton VS Blair Flannigan
+[IDS_SOLO.CHAPTER50042_EXPLANATION]
+Future Changes (reverse duel)
+
+Final round of the GX tournament has begun and it is Chazz up against Blair.
+
+Chazz Princeton VS Blair Flannigan
+[IDS_SOLO.CHAPTER50043_EXPLANATION]
+A Jewel of a Duel
+
+Jaden starts his third year at The Duel Acadmey
+
+Jaden Yuki VS Jesse Anderson
+[IDS_SOLO.CHAPTER50044_EXPLANATION]
+A Jewel of a Duel (reverse duel)
+
+Jaden starts his third year at The Duel Acadmey
+
+Jaden Yuki VS Jesse Anderson
+[IDS_SOLO.CHAPTER50045_EXPLANATION]
+Hanging with Axel
+
+Jaden duels Axel
+
+Jaden Yuki VS Axel Brodie
+[IDS_SOLO.CHAPTER50046_EXPLANATION]
+Hanging with Axel (reverse duel)
+
+Jaden duels Axel
+
+Jaden Yuki VS Axel Brodie
+[IDS_SOLO.CHAPTER50047_EXPLANATION]
+Primal Instinct
+
+Jim duels Tyranno
+
+Jim Crocodile Cook VS Tyranno Hassleberry
+[IDS_SOLO.CHAPTER50048_EXPLANATION]
+Primal Instinct (reverse duel)
+
+Jim duels Tyranno
+
+Jim Crocodile Cook VS Tyranno Hassleberry
+[IDS_SOLO.CHAPTER50049_EXPLANATION]
+Head in the Clouds
+
+Adrian duels Chazz
+
+Adrian Gecko VS Chazz Princeton
+[IDS_SOLO.CHAPTER50050_EXPLANATION]
+Head in the Clouds (reverse duel)
+
+Adrian duels Chazz
+
+Adrian Gecko VS Chazz Princeton
+[IDS_SOLO.CHAPTER50051_EXPLANATION]
+A Snake in the Grass
+
+Jaden duels Thelonious
+
+Jaden Yuki VS Prof. Thelonious Viper
+[IDS_SOLO.CHAPTER50052_EXPLANATION]
+A Snake in the Grass (reverse duel)
+
+Jaden duels Thelonious
+
+Jaden Yuki VS Prof. Thelonious Viper
+[IDS_SOLO.CHAPTER50053_EXPLANATION]
+A Dimensional Duel
+
+Jesse duels Zane from another dimension.
+
+Jesse Anderson VS Zane Truesdale
+[IDS_SOLO.CHAPTER50054_EXPLANATION]
+A Dimensional Duel (reverse duel)
+
+Jesse duels Zane from another dimension.
+
+Jesse Anderson VS Zane Truesdale
+[IDS_SOLO.CHAPTER50055_EXPLANATION]
+Unleashing the Dragon
+
+Jaden duels Marcel in an attempt to escape from another dimension.
+
+Jaden Yuki VS Marcel Bonaparte
+[IDS_SOLO.CHAPTER50056_EXPLANATION]
+Unleashing the Dragon (reverse duel)
+
+Jaden duels Marcel in an attempt to escape from another dimension.
+
+Jaden Yuki VS Marcel Bonaparte
+[IDS_SOLO.CHAPTER50057_EXPLANATION]
+The Power Within
+
+Jaden duels Yubel to free Jesse from her control .
+
+Jaden Yuki VS Jesse Anderson
+[IDS_SOLO.CHAPTER50058_EXPLANATION]
+The Power Within (reverse duel)
+
+Jaden duels Yubel to free Jesse from her control .
+
+Jaden Yuki VS Jesse Anderson
+[IDS_SOLO.CHAPTER50059_EXPLANATION]
+Return of the Supreme King
+
+Jaden duels Yubel in the final confrontation.
+
+Jaden Yuki VS Yubel
+[IDS_SOLO.CHAPTER50060_EXPLANATION]
+Return of the Supreme King (reverse duel)
+
+Jaden duels Yubel in the final confrontation.
+
+Jaden Yuki VS Yubel
+[IDS_SOLO.CHAPTER50061_EXPLANATION]
+Darkness Returns
+
+GX_DLC_1
+
+Jaden Yuki VS Nightshroud
+[IDS_SOLO.CHAPTER50062_EXPLANATION]
+Darkness Returns (reverse duel)
+
+GX_DLC_1
+
+Jaden Yuki VS Nightshroud
+[IDS_SOLO.CHAPTER50063_EXPLANATION]
+The Legendary Duelist
+
+GX_DLC_2
+
+Jaden Yuki VS Yami Yugi
+[IDS_SOLO.CHAPTER50064_EXPLANATION]
+The Legendary Duelist (reverse duel)
+
+GX_DLC_2
+
+Jaden Yuki VS Yami Yugi
+[IDS_SOLO.GATE006]
+Yu-Gi-Oh! 5D's
+[IDS_SOLO.GATE006_EXPLANATION]]
+Duels featuring cards from Yu-Gi-Oh! 5D's
+[IDS_SOLO.CHAPTER60001_EXPLANATION]
+Ready, Set, Duel
+
+Yusei VS Jack
+
+Yusei Fudo VS Tetsu Trudge
+[IDS_SOLO.CHAPTER60002_EXPLANATION]
+Ready, Set, Duel (reverse duel)
+
+Yusei VS Jack
+
+Yusei Fudo VS Tetsu Trudge
+[IDS_SOLO.CHAPTER60003_EXPLANATION]
+A Blast from the Past
+
+Yusei VS Trudge
+
+Yusei Fudo VS Jack Atlas
+[IDS_SOLO.CHAPTER60004_EXPLANATION]
+A Blast from the Past (reverse duel)
+
+Yusei VS Trudge
+
+Yusei Fudo VS Jack Atlas
+[IDS_SOLO.CHAPTER60005_EXPLANATION]
+The Facility
+
+The Facility
+
+Yusei Fudo VS Bolt Tanner
+[IDS_SOLO.CHAPTER60006_EXPLANATION]
+The Facility (reverse duel)
+
+The Facility
+
+Yusei Fudo VS Bolt Tanner
+[IDS_SOLO.CHAPTER60007_EXPLANATION]
+The Lockdown Duel
+
+The Lockdown Duel
+
+Yusei Fudo VS Mr. Armstrong
+[IDS_SOLO.CHAPTER60008_EXPLANATION]
+The Lockdown Duel (reverse duel)
+
+The Lockdown Duel
+
+Yusei Fudo VS Mr. Armstrong
+[IDS_SOLO.CHAPTER60009_EXPLANATION]
+The Take Back
+
+The Take Back
+
+Yusei Fudo VS Tetsu Trudge
+[IDS_SOLO.CHAPTER60010_EXPLANATION]
+The Take Back (reverse duel)
+
+The Take Back
+
+Yusei Fudo VS Tetsu Trudge
+[IDS_SOLO.CHAPTER60011_EXPLANATION]
+Welcome to the Fortune Cup
+
+Welcome to the Fortune Cup
+
+Greiger VS Leo
+[IDS_SOLO.CHAPTER60012_EXPLANATION]
+Welcome to the Fortune Cup (reverse duel)
+
+Welcome to the Fortune Cup
+
+Greiger VS Leo
+[IDS_SOLO.CHAPTER60013_EXPLANATION]
+Surprise Surprise
+
+Surprise Surprise
+
+Yusei Fudo VS Hunter Pace
+[IDS_SOLO.CHAPTER60014_EXPLANATION]
+Surprise Surprise (reverse duel)
+
+Surprise Surprise
+
+Yusei Fudo VS Hunter Pace
+[IDS_SOLO.CHAPTER60015_EXPLANATION]
+Second Round Showdown
+
+Second Round Showdown
+
+Yusei Fudo VS Greiger
+[IDS_SOLO.CHAPTER60016_EXPLANATION]
+Second Round Showdown (reverse duel)
+
+Second Round Showdown
+
+Yusei Fudo VS Greiger
+[IDS_SOLO.CHAPTER60017_EXPLANATION]
+Duel of Dragons
+
+Duel of Dragons
+
+Yusei Fudo VS Akiza Izinski
+[IDS_SOLO.CHAPTER60018_EXPLANATION]
+Duel of Dragons (reverse duel)
+
+Duel of Dragons
+
+Yusei Fudo VS Akiza Izinski
+[IDS_SOLO.CHAPTER60019_EXPLANATION]
+The Fortune Cup Finale
+
+The Fortune Cup Finale
+
+Yusei Fudo VS Jack Atlas
+[IDS_SOLO.CHAPTER60020_EXPLANATION]
+The Fortune Cup Finale (reverse duel)
+
+The Fortune Cup Finale
+
+Yusei Fudo VS Jack Atlas
+[IDS_SOLO.CHAPTER60021_EXPLANATION]
+Supersensory Shakedown
+
+Supersensory Shakedown
+
+Sayer VS Leo
+[IDS_SOLO.CHAPTER60022_EXPLANATION]
+Supersensory Shakedown (reverse duel)
+
+Supersensory Shakedown
+
+Sayer VS Leo
+[IDS_SOLO.CHAPTER60023_EXPLANATION]
+Digging Deeper
+
+Digging Deeper
+
+Sayer VS Carly Carmine
+[IDS_SOLO.CHAPTER60024_EXPLANATION]
+Digging Deeper (reverse duel)
+
+Digging Deeper
+
+Sayer VS Carly Carmine
+[IDS_SOLO.CHAPTER60025_EXPLANATION]
+Mark of the Monkey
+
+Mark of the Monkey
+
+Leo VS Devack
+[IDS_SOLO.CHAPTER60026_EXPLANATION]
+Mark of the Monkey (reverse duel)
+
+Mark of the Monkey
+
+Leo VS Devack
+[IDS_SOLO.CHAPTER60027_EXPLANATION]
+A Whale of a Ride
+
+A Whale of a ride
+
+Crow Hogan VS Greiger
+[IDS_SOLO.CHAPTER60028_EXPLANATION]
+A Whale of a Ride (reverse duel)
+
+A Whale of a ride
+
+Crow Hogan VS Greiger
+[IDS_SOLO.CHAPTER60029_EXPLANATION]
+A Score to Settle
+
+A Score to Settle
+
+Yusei Fudo VS Kalin Kessler
+[IDS_SOLO.CHAPTER60030_EXPLANATION]
+A Score to Settle (reverse duel)
+
+A Score to Settle
+
+Yusei Fudo VS Kalin Kessler
+[IDS_SOLO.CHAPTER60031_EXPLANATION]
+Destiny's Will
+
+Destiny's Will
+
+Yusei Fudo VS Roman Goodwin
+[IDS_SOLO.CHAPTER60032_EXPLANATION]
+Destiny's Will (reverse duel)
+
+Destiny's Will
+
+Yusei Fudo VS Roman Goodwin
+[IDS_SOLO.CHAPTER60033_EXPLANATION]
+Shadows of Doubt
+
+Shadows of Doubt
+
+Jack Atlas VS Carly Carmine
+[IDS_SOLO.CHAPTER60034_EXPLANATION]
+Shadows of Doubt (reverse duel)
+
+Shadows of Doubt
+
+Jack Atlas VS Carly Carmine
+[IDS_SOLO.CHAPTER60035_EXPLANATION]
+Truth and Consequences
+
+Truth and Consequences
+
+Akiza Izinski VS Misty Tredwell
+[IDS_SOLO.CHAPTER60036_EXPLANATION]
+Truth and Consequences (reverse duel)
+
+Truth and Consequences
+
+Akiza Izinski VS Misty Tredwell
+[IDS_SOLO.CHAPTER60037_EXPLANATION]
+Signs of Doom
+
+Signs of Doom
+
+Yusei Fudo VS Rex Goodwin
+[IDS_SOLO.CHAPTER60038_EXPLANATION]
+Signs of Doom (reverse duel)
+
+Signs of Doom
+
+Yusei Fudo VS Rex Goodwin
+[IDS_SOLO.CHAPTER60039_EXPLANATION]
+French Twist
+
+French Twist
+
+Yusei Fudo VS Sherry LeBlanc
+[IDS_SOLO.CHAPTER60040_EXPLANATION]
+French Twist (reverse duel)
+
+French Twist
+
+Yusei Fudo VS Sherry LeBlanc
+[IDS_SOLO.CHAPTER60041_EXPLANATION]
+The Edge of Elimination Part 1
+
+The Edge of Elimination Part 1
+
+Yusei Fudo VS Andre
+[IDS_SOLO.CHAPTER60042_EXPLANATION]
+The Edge of Elimination Part 1 (reverse duel)
+
+The Edge of Elimination Part 1
+
+Yusei Fudo VS Andre
+[IDS_SOLO.CHAPTER60043_EXPLANATION]
+The Edge of Elimination Part 2
+
+The Edge of Elimination Part 2
+
+Yusei Fudo VS Breo
+[IDS_SOLO.CHAPTER60044_EXPLANATION]
+The Edge of Elimination Part 2 (reverse duel)
+
+The Edge of Elimination Part 2
+
+Yusei Fudo VS Breo
+[IDS_SOLO.CHAPTER60045_EXPLANATION]
+The Edge of Elimination Part 3
+
+The Edge of Elimination Part 3
+
+Yusei Fudo VS Jean
+[IDS_SOLO.CHAPTER60046_EXPLANATION]
+The Edge of Elimination Part 3 (reverse duel)
+
+The Edge of Elimination Part 3
+
+Yusei Fudo VS Jean
+[IDS_SOLO.CHAPTER60047_EXPLANATION]
+Duel for Redemption
+
+Duel for Redemption
+
+Jack Atlas VS Dragan
+[IDS_SOLO.CHAPTER60048_EXPLANATION]
+Duel for Redemption (reverse duel)
+
+Duel for Redemption
+
+Jack Atlas VS Dragan
+[IDS_SOLO.CHAPTER60049_EXPLANATION]
+Tricking the Trickster
+
+Tricking the Trickster
+
+Crow Hogan VS Broder
+[IDS_SOLO.CHAPTER60050_EXPLANATION]
+Tricking the Trickster (reverse duel)
+
+Tricking the Trickster
+
+Crow Hogan VS Broder
+[IDS_SOLO.CHAPTER60051_EXPLANATION]
+Tricking the Trickster 2
+
+Tricking the Trickster 2
+
+Yusei Fudo VS Halldor
+[IDS_SOLO.CHAPTER60052_EXPLANATION]
+Tricking the Trickster 2 (reverse duel)
+
+Tricking the Trickster 2
+
+Yusei Fudo VS Halldor
+[IDS_SOLO.CHAPTER60053_EXPLANATION]
+The Beginning of the End
+
+The Beginning of the End
+
+Jack Atlas VS Lester
+[IDS_SOLO.CHAPTER60054_EXPLANATION]
+The Beginning of the End (reverse duel)
+
+The Beginning of the End
+
+Jack Atlas VS Lester
+[IDS_SOLO.CHAPTER60055_EXPLANATION]
+Dawn of the Machines
+
+Dawn of the Machines
+
+Jack Atlas VS Primo
+[IDS_SOLO.CHAPTER60056_EXPLANATION]
+Dawn of the Machines (reverse duel)
+
+Dawn of the Machines
+
+Jack Atlas VS Primo
+[IDS_SOLO.CHAPTER60057_EXPLANATION]
+Victory or Doom
+
+Victory or Doom
+
+Yusei Fudo VS Aporia
+[IDS_SOLO.CHAPTER60058_EXPLANATION]
+Victory or Doom (reverse duel)
+
+Victory or Doom
+
+Yusei Fudo VS Aporia
+[IDS_SOLO.CHAPTER60059_EXPLANATION]
+Fight for the Future
+
+5DS_DLC_1
+
+Yusei Fudo VS Antinomy
+[IDS_SOLO.CHAPTER60060_EXPLANATION]
+Fight for the Future (reverse duel)
+
+5DS_DLC_1
+
+Yusei Fudo VS Antinomy
+[IDS_SOLO.CHAPTER60061_EXPLANATION]
+Hope
+
+5DS_DLC_2
+
+Yusei Fudo VS Zone
+[IDS_SOLO.CHAPTER60062_EXPLANATION]
+Hope (reverse duel)
+
+5DS_DLC_2
+
+Yusei Fudo VS Zone
+[IDS_SOLO.CHAPTER60063_EXPLANATION]
+Future Path
+
+Yusei Fudo VS Jack Atlas
+[IDS_SOLO.CHAPTER60064_EXPLANATION]
+Future Path (reverse duel)
+
+Yusei Fudo VS Jack Atlas
+[IDS_SOLO.GATE007]
+Yu-Gi-Oh! ZEXAL
+[IDS_SOLO.GATE007_EXPLANATION]]
+Duels featuring cards from Yu-Gi-Oh! ZEXAL
+[IDS_SOLO.CHAPTER70001_EXPLANATION]
+Go with the Flow
+
+Go With The Flow
+
+Yuma Tsukumo VS Reginald Kastle
+[IDS_SOLO.CHAPTER70002_EXPLANATION]
+Go with the Flow (reverse duel)
+
+Go With The Flow
+
+Yuma Tsukumo VS Reginald Kastle
+[IDS_SOLO.CHAPTER70003_EXPLANATION]
+Flipping Out
+
+Flipping Out
+
+Yuma Tsukumo VS Flip Turner
+[IDS_SOLO.CHAPTER70004_EXPLANATION]
+Flipping Out (reverse duel)
+
+Flipping Out
+
+Yuma Tsukumo VS Flip Turner
+[IDS_SOLO.CHAPTER70005_EXPLANATION]
+The Sparrow
+
+The Sparrow
+
+Yuma Tsukumo VS Nelson Andrews
+[IDS_SOLO.CHAPTER70006_EXPLANATION]
+The Sparrow (reverse duel)
+
+The Sparrow
+
+Yuma Tsukumo VS Nelson Andrews
+[IDS_SOLO.CHAPTER70007_EXPLANATION]
+Feline Frenzy
+
+Feline Frenzy
+
+Yuma Tsukumo VS Cathy Katherine
+[IDS_SOLO.CHAPTER70008_EXPLANATION]
+Feline Frenzy (reverse duel)
+
+Feline Frenzy
+
+Yuma Tsukumo VS Cathy Katherine
+[IDS_SOLO.CHAPTER70009_EXPLANATION]
+Roots of the Problem
+
+ZEXAL_DLC_1
+
+Bronk Stone VS Number 96
+[IDS_SOLO.CHAPTER70010_EXPLANATION]
+Roots of the Problem (reverse duel)
+
+ZEXAL_DLC_1
+
+Bronk Stone VS Number 96
+[IDS_SOLO.CHAPTER70011_EXPLANATION]
+Love Hurts
+
+Love Hurts
+
+Yuma Tsukumo VS Anna Kaboom
+[IDS_SOLO.CHAPTER70012_EXPLANATION]
+Love Hurts (reverse duel)
+
+Love Hurts
+
+Yuma Tsukumo VS Anna Kaboom
+[IDS_SOLO.CHAPTER70013_EXPLANATION]
+Double Jeopardy
+
+Double Jeopardy
+
+Yuma Tsukumo VS Dextra
+[IDS_SOLO.CHAPTER70014_EXPLANATION]
+Double Jeopardy (reverse duel)
+
+Double Jeopardy
+
+Yuma Tsukumo VS Dextra
+[IDS_SOLO.CHAPTER70015_EXPLANATION]
+The Dragon Awakens
+
+The Dragon Awakens
+
+Kite Tenjo VS Trey
+[IDS_SOLO.CHAPTER70016_EXPLANATION]
+The Dragon Awakens (reverse duel)
+
+The Dragon Awakens
+
+Kite Tenjo VS Trey
+[IDS_SOLO.CHAPTER70017_EXPLANATION]
+Cosmic Chaos
+
+Cosmic Chaos
+
+Kite Tenjo VS Quinton
+[IDS_SOLO.CHAPTER70018_EXPLANATION]
+Cosmic Chaos (reverse duel)
+
+Cosmic Chaos
+
+Kite Tenjo VS Quinton
+[IDS_SOLO.CHAPTER70019_EXPLANATION]
+Swimming with Sharks
+
+Swimming with Sharks
+
+Reginald Kastle VS Quattro
+[IDS_SOLO.CHAPTER70020_EXPLANATION]
+Swimming with Sharks (reverse duel)
+
+Swimming with Sharks
+
+Reginald Kastle VS Quattro
+[IDS_SOLO.CHAPTER70021_EXPLANATION]
+Rockin' and Rollin'
+
+Rockin' and Rollin'
+
+Yuma Tsukumo VS Nistro
+[IDS_SOLO.CHAPTER70022_EXPLANATION]
+Rockin' and Rollin' (reverse duel)
+
+Rockin' and Rollin'
+
+Yuma Tsukumo VS Nistro
+[IDS_SOLO.CHAPTER70023_EXPLANATION]
+Duel of Destiny
+
+Duel of Destiny
+
+Yuma Tsukumo VS Reginald Kastle
+[IDS_SOLO.CHAPTER70024_EXPLANATION]
+Duel of Destiny (reverse duel)
+
+Duel of Destiny
+
+Yuma Tsukumo VS Reginald Kastle
+[IDS_SOLO.CHAPTER70025_EXPLANATION]
+Sphere of Fear
+
+Sphere of Fear
+
+Yuma Tsukumo VS Vetrix
+[IDS_SOLO.CHAPTER70026_EXPLANATION]
+Sphere of Fear (reverse duel)
+
+Sphere of Fear
+
+Yuma Tsukumo VS Vetrix
+[IDS_SOLO.CHAPTER70027_EXPLANATION]
+A Trio's Challenge
+
+A Trio's Challenge
+
+Yuma Tsukumo VS Dr. Faker
+[IDS_SOLO.CHAPTER70028_EXPLANATION]
+A Trio's Challenge (reverse duel)
+
+A Trio's Challenge
+
+Yuma Tsukumo VS Dr. Faker
+[IDS_SOLO.CHAPTER70029_EXPLANATION]
+Counter Offensive
+
+Counter Offensive
+
+ZEXAL VS Alito
+[IDS_SOLO.CHAPTER70030_EXPLANATION]
+Counter Offensive (reverse duel)
+
+Counter Offensive
+
+ZEXAL VS Alito
+[IDS_SOLO.CHAPTER70031_EXPLANATION]
+Dual Duel
+
+Dual Duel
+
+Ray Shadows VS Girag
+[IDS_SOLO.CHAPTER70032_EXPLANATION]
+Dual Duel (reverse duel)
+
+Dual Duel
+
+Ray Shadows VS Girag
+[IDS_SOLO.CHAPTER70033_EXPLANATION]
+Search for Shadows, Pt. 1
+
+Search for Shadows, Pt. 1
+
+Reginald Kastle VS Dumon
+[IDS_SOLO.CHAPTER70034_EXPLANATION]
+Search for Shadows, Pt. 1 (reverse duel)
+
+Search for Shadows, Pt. 1
+
+Reginald Kastle VS Dumon
+[IDS_SOLO.CHAPTER70035_EXPLANATION]
+Search for Shadows, Pt. 2
+
+Search for Shadows, Pt. 2
+
+Kite Tenjo VS Mizar
+[IDS_SOLO.CHAPTER70036_EXPLANATION]
+Search for Shadows, Pt. 2 (reverse duel)
+
+Search for Shadows, Pt. 2
+
+Kite Tenjo VS Mizar
+[IDS_SOLO.CHAPTER70037_EXPLANATION]
+Search for Shadows, Pt. 3
+
+Search for Shadows, Pt. 3
+
+Yuma Tsukumo VS Vector
+[IDS_SOLO.CHAPTER70038_EXPLANATION]
+Search for Shadows, Pt. 3 (reverse duel)
+
+Search for Shadows, Pt. 3
+
+Yuma Tsukumo VS Vector
+[IDS_SOLO.CHAPTER70039_EXPLANATION]
+Barian Vengeance
+
+Barian Vengeance
+
+Yuma Tsukumo VS Nistro
+[IDS_SOLO.CHAPTER70040_EXPLANATION]
+Barian Vengeance (reverse duel)
+
+Barian Vengeance
+
+Yuma Tsukumo VS Nistro
+[IDS_SOLO.CHAPTER70041_EXPLANATION]
+A Sea of Troubles
+
+A Sea of Troubles
+
+Reginald Kastle VS Rio Kastle
+[IDS_SOLO.CHAPTER70042_EXPLANATION]
+A Sea of Troubles (reverse duel)
+
+A Sea of Troubles
+
+Reginald Kastle VS Rio Kastle
+[IDS_SOLO.CHAPTER70043_EXPLANATION]
+A World of Chaos
+
+ZEXAL_DLC_2
+
+Yuma Tsukumo VS Number 96
+[IDS_SOLO.CHAPTER70044_EXPLANATION]
+A World of Chaos (reverse duel)
+
+ZEXAL_DLC_2
+
+Yuma Tsukumo VS Number 96
+[IDS_SOLO.CHAPTER70045_EXPLANATION]
+Clash of the Emperors
+
+Sinister Memories
+
+Nash VS Vector
+[IDS_SOLO.CHAPTER70046_EXPLANATION]
+Clash of the Emperors (reverse duel)
+
+Sinister Memories
+
+Nash VS Vector
+[IDS_SOLO.CHAPTER70047_EXPLANATION]
+The New World
+
+A Being of Chaos
+
+ZEXAL 3 VS Don Thousand
+[IDS_SOLO.CHAPTER70048_EXPLANATION]
+The New World (reverse duel)
+
+A Being of Chaos
+
+ZEXAL 3 VS Don Thousand
+[IDS_SOLO.CHAPTER70049_EXPLANATION]
+The Battle of Three Worlds
+
+End of Chaos
+
+Yuma Tsukumo VS Nash
+[IDS_SOLO.CHAPTER70050_EXPLANATION]
+The Battle of Three Worlds (reverse duel)
+
+End of Chaos
+
+Yuma Tsukumo VS Nash
+[IDS_SOLO.CHAPTER70051_EXPLANATION]
+Forever ZEXAL
+
+The Ceremonial Battle
+
+Yuma Tsukumo VS Astral
+[IDS_SOLO.CHAPTER70052_EXPLANATION]
+Forever ZEXAL (reverse duel)
+
+The Ceremonial Battle
+
+Yuma Tsukumo VS Astral
+[IDS_SOLO.GATE008]
+Yu-Gi-Oh! ARC-V
+[IDS_SOLO.GATE008_EXPLANATION]]
+Duels featuring cards from Yu-Gi-Oh! ARC-V
+[IDS_SOLO.CHAPTER80001_EXPLANATION]
+Swing Into Action
+
+Yuya Sakaki VS The Sledgehammer
+[IDS_SOLO.CHAPTER80002_EXPLANATION]
+Swing Into Action (reverse duel)
+
+Yuya Sakaki VS The Sledgehammer
+[IDS_SOLO.CHAPTER80003_EXPLANATION]
+Trade Bait
+
+Yuya Sakaki VS Sylvio Sawatari
+[IDS_SOLO.CHAPTER80004_EXPLANATION]
+Trade Bait (reverse duel)
+
+Yuya Sakaki VS Sylvio Sawatari
+[IDS_SOLO.CHAPTER80005_EXPLANATION]
+Dueling with the Stars
+
+Yuya Sakaki VS Dipper O'rion
+[IDS_SOLO.CHAPTER80006_EXPLANATION]
+Dueling with the Stars (reverse duel)
+
+Yuya Sakaki VS Dipper O'rion
+[IDS_SOLO.CHAPTER80007_EXPLANATION]
+You Show 'Em!
+
+Julia Krystal VS Zuzu Boyle
+[IDS_SOLO.CHAPTER80008_EXPLANATION]
+You Show 'Em! (reverse duel)
+
+Julia Krystal VS Zuzu Boyle
+[IDS_SOLO.CHAPTER80009_EXPLANATION]
+Going, Going, Gong
+
+Gong Strong VS Kit Blade
+[IDS_SOLO.CHAPTER80010_EXPLANATION]
+Going, Going, Gong (reverse duel)
+
+Gong Strong VS Kit Blade
+[IDS_SOLO.CHAPTER80011_EXPLANATION]
+A Date With Fate
+
+Yuya Sakaki VS Aura Sentia
+[IDS_SOLO.CHAPTER80012_EXPLANATION]
+A Date With Fate (reverse duel)
+
+Yuya Sakaki VS Aura Sentia
+[IDS_SOLO.CHAPTER80013_EXPLANATION]
+Fusion Foes
+
+Zuzu Boyle VS Julia Krystal
+[IDS_SOLO.CHAPTER80014_EXPLANATION]
+Fusion Foes (reverse duel)
+
+Zuzu Boyle VS Julia Krystal
+[IDS_SOLO.CHAPTER80015_EXPLANATION]
+The Pendulum Swings Both Ways
+
+Yuya Sakaki VS Sylvio Sawatari
+[IDS_SOLO.CHAPTER80016_EXPLANATION]
+The Pendulum Swings Both Ways (reverse duel)
+
+Yuya Sakaki VS Sylvio Sawatari
+[IDS_SOLO.CHAPTER80017_EXPLANATION]
+Making the Cut
+
+Shay Obsidian VS Sora Perse
+[IDS_SOLO.CHAPTER80018_EXPLANATION]
+Making the Cut (reverse duel)
+
+Shay Obsidian VS Sora Perse
+[IDS_SOLO.CHAPTER80019_EXPLANATION]
+A Dark Reflection
+
+Yugo VS Yuto
+[IDS_SOLO.CHAPTER80020_EXPLANATION]
+A Dark Reflection (reverse duel)
+
+Yugo VS Yuto
+[IDS_SOLO.CHAPTER80021_EXPLANATION]
+Obelisk Assault
+
+Celina VS Dennis McField
+[IDS_SOLO.CHAPTER80022_EXPLANATION]
+Obelisk Assault (reverse duel)
+
+Celina VS Dennis McField
+[IDS_SOLO.CHAPTER80023_EXPLANATION]
+Battlefronts
+
+Moon Shadow VS Obelisk Force
+[IDS_SOLO.CHAPTER80024_EXPLANATION]
+Battlefronts (reverse duel)
+
+Moon Shadow VS Obelisk Force
+[IDS_SOLO.CHAPTER80025_EXPLANATION]
+Fighting for Fun
+
+Yuya Sakaki VS Sora Perse
+[IDS_SOLO.CHAPTER80026_EXPLANATION]
+Fighting for Fun (reverse duel)
+
+Yuya Sakaki VS Sora Perse
+[IDS_SOLO.CHAPTER80027_EXPLANATION]
+City 'Scape
+
+Yugo VS Officer 227
+[IDS_SOLO.CHAPTER80028_EXPLANATION]
+City 'Scape (reverse duel)
+
+Yugo VS Officer 227
+[IDS_SOLO.CHAPTER80029_EXPLANATION]
+Crow's Crew
+
+Crow Hogan VS Gong Strong
+[IDS_SOLO.CHAPTER80030_EXPLANATION]
+Crow's Crew (reverse duel)
+
+Crow Hogan VS Gong Strong
+[IDS_SOLO.CHAPTER80031_EXPLANATION]
+A Concerted Effort
+
+Zuzu Boyle VS Chojiro Tokumatsu
+[IDS_SOLO.CHAPTER80032_EXPLANATION]
+A Concerted Effort (reverse duel)
+
+Zuzu Boyle VS Chojiro Tokumatsu
+[IDS_SOLO.CHAPTER80033_EXPLANATION]
+Turbotainers
+
+Shay Obsidian VS Dennis McField
+[IDS_SOLO.CHAPTER80034_EXPLANATION]
+Turbotainers (reverse duel)
+
+Shay Obsidian VS Dennis McField
+[IDS_SOLO.CHAPTER80035_EXPLANATION]
+Battle Birds
+
+Crow Hogan VS Shay Obsidian
+[IDS_SOLO.CHAPTER80036_EXPLANATION]
+Battle Birds (reverse duel)
+
+Crow Hogan VS Shay Obsidian
+[IDS_SOLO.CHAPTER80037_EXPLANATION]
+The Many Dimensions of Yuya
+
+Yuya Sakaki VS Crow Hogan
+[IDS_SOLO.CHAPTER80038_EXPLANATION]
+The Many Dimensions of Yuya (reverse duel)
+
+Yuya Sakaki VS Crow Hogan
+[IDS_SOLO.CHAPTER80039_EXPLANATION]
+Chain Game
+
+Yugo VS Yuri
+[IDS_SOLO.CHAPTER80040_EXPLANATION]
+Chain Game (reverse duel)
+
+Yugo VS Yuri
+[IDS_SOLO.CHAPTER80041_EXPLANATION]
+Friendship Finale
+
+Yuya Sakaki VS Jack Atlas
+[IDS_SOLO.CHAPTER80042_EXPLANATION]
+Friendship Finale (reverse duel)
+
+Yuya Sakaki VS Jack Atlas
+[IDS_SOLO.CHAPTER80043_EXPLANATION]
+A Vicious Cycle
+
+Declan Akaba VS Jean Michel Roget
+[IDS_SOLO.CHAPTER80044_EXPLANATION]
+A Vicious Cycle (reverse duel)
+
+Declan Akaba VS Jean Michel Roget
+[IDS_SOLO.CHAPTER80045_EXPLANATION]
+Rush to Revenge
+
+Yuya Sakaki VS Kite Tenjo
+[IDS_SOLO.CHAPTER80046_EXPLANATION]
+Rush to Revenge (reverse duel)
+
+Yuya Sakaki VS Kite Tenjo
+[IDS_SOLO.CHAPTER80047_EXPLANATION]
+Rise of the Resistance
+
+Alexis Rhodes VS Obelisk Force
+[IDS_SOLO.CHAPTER80048_EXPLANATION]
+Rise of the Resistance (reverse duel)
+
+Alexis Rhodes VS Obelisk Force
+[IDS_SOLO.CHAPTER80049_EXPLANATION]
+Last Laugh
+
+Yuya Sakaki VS Aster Phoenix
+[IDS_SOLO.CHAPTER80050_EXPLANATION]
+Last Laugh (reverse duel)
+
+Yuya Sakaki VS Aster Phoenix
+[IDS_SOLO.CHAPTER80051_EXPLANATION]
+All Duel Hands on Deck
+
+Kite Tenjo VS Dennis McField
+[IDS_SOLO.CHAPTER80052_EXPLANATION]
+All Duel Hands on Deck (reverse duel)
+
+Kite Tenjo VS Dennis McField
+[IDS_SOLO.CHAPTER80053_EXPLANATION]
+Grip of the Parasite
+
+Rin VS Yugo
+[IDS_SOLO.CHAPTER80054_EXPLANATION]
+Grip of the Parasite (reverse duel)
+
+Rin VS Yugo
+[IDS_SOLO.CHAPTER80055_EXPLANATION]
+Family Face Off
+
+Shay Obsidian VS Lulu
+[IDS_SOLO.CHAPTER80056_EXPLANATION]
+Family Face Off (reverse duel)
+
+Shay Obsidian VS Lulu
+[IDS_SOLO.CHAPTER80057_EXPLANATION]
+Duel Interrupted
+
+Yuri VS Yugo
+[IDS_SOLO.CHAPTER80058_EXPLANATION]
+Duel Interrupted (reverse duel)
+
+Yuri VS Yugo
+[IDS_SOLO.CHAPTER80059_EXPLANATION]
+Time to Reunite
+
+Yuya Sakaki VS Yuri
+[IDS_SOLO.CHAPTER80060_EXPLANATION]
+Time to Reunite (reverse duel)
+
+Yuya Sakaki VS Yuri
+[IDS_SOLO.CHAPTER80061_EXPLANATION]
+A Ray of Hope
+
+Declan Akaba VS Z-ARC
+[IDS_SOLO.CHAPTER80062_EXPLANATION]
+A Ray of Hope (reverse duel)
+
+Declan Akaba VS Z-ARC
+[IDS_SOLO.CHAPTER80063_EXPLANATION]
+One Last Duel
+
+Yuya Sakaki VS Declan Akaba
+[IDS_SOLO.CHAPTER80064_EXPLANATION]
+One Last Duel (reverse duel)
+
+Yuya Sakaki VS Declan Akaba
+[IDS_SOLO.CHAPTER80065_EXPLANATION]
+That's a Wrap!
+
+Yuya Sakaki VS Yusho Sakaki
+[IDS_SOLO.CHAPTER80066_EXPLANATION]
+That's a Wrap! (reverse duel)
+
+Yuya Sakaki VS Yusho Sakaki
+[IDS_SOLO.GATE009]
+Yu-Gi-Oh! VRAINS
+[IDS_SOLO.GATE009_EXPLANATION]]
+Duels featuring cards from Yu-Gi-Oh! VRAINS
+[IDS_SOLO.CHAPTER90001_EXPLANATION]
+My Name Is Playmaker
+
+Playmaker VS Knight of Hanoi
+[IDS_SOLO.CHAPTER90002_EXPLANATION]
+My Name Is Playmaker (reverse duel)
+
+Playmaker VS Knight of Hanoi
+[IDS_SOLO.CHAPTER90003_EXPLANATION]
+The Three Count Rings
+
+Playmaker VS The Gore
+[IDS_SOLO.CHAPTER90004_EXPLANATION]
+The Three Count Rings (reverse duel)
+
+Playmaker VS The Gore
+[IDS_SOLO.CHAPTER90005_EXPLANATION]
+Hanoi's Angel
+
+Playmaker VS Blue Angel
+[IDS_SOLO.CHAPTER90006_EXPLANATION]
+Hanoi's Angel (reverse duel)
+
+Playmaker VS Blue Angel
+[IDS_SOLO.CHAPTER90007_EXPLANATION]
+A Storm is Coming
+
+Playmaker VS Varis
+[IDS_SOLO.CHAPTER90008_EXPLANATION]
+A Storm is Coming (reverse duel)
+
+Playmaker VS Varis
+[IDS_SOLO.CHAPTER90009_EXPLANATION]
+Ghost Gal's Invitation
+
+Playmaker VS Ghost Gal
+[IDS_SOLO.CHAPTER90010_EXPLANATION]
+Ghost Gal's Invitation (reverse duel)
+
+Playmaker VS Ghost Gal
+[IDS_SOLO.CHAPTER90011_EXPLANATION]
+Dueling for Answers
+
+Playmaker VS Akira Zaizen
+[IDS_SOLO.CHAPTER90012_EXPLANATION]
+Dueling for Answers (reverse duel)
+
+Playmaker VS Akira Zaizen
+[IDS_SOLO.CHAPTER90013_EXPLANATION]
+Under VRAINS
+
+Varis VS Ghost Gal
+[IDS_SOLO.CHAPTER90014_EXPLANATION]
+Under VRAINS (reverse duel)
+
+Varis VS Ghost Gal
+[IDS_SOLO.CHAPTER90015_EXPLANATION]
+Once Upon a Time
+
+Spectre VS Blue Angel
+[IDS_SOLO.CHAPTER90016_EXPLANATION]
+Once Upon a Time (reverse duel)
+
+Spectre VS Blue Angel
+[IDS_SOLO.CHAPTER90017_EXPLANATION]
+A Bridge Too Far
+
+Playmaker VS Spectre
+[IDS_SOLO.CHAPTER90018_EXPLANATION]
+A Bridge Too Far (reverse duel)
+
+Playmaker VS Spectre
+[IDS_SOLO.CHAPTER90019_EXPLANATION]
+Gore at War
+
+Varis VS The Gore
+[IDS_SOLO.CHAPTER90020_EXPLANATION]
+Gore at War (reverse duel)
+
+Varis VS The Gore
+[IDS_SOLO.CHAPTER90021_EXPLANATION]
+Link to the Future
+
+Playmaker VS Varis
+[IDS_SOLO.CHAPTER90022_EXPLANATION]
+Link to the Future (reverse duel)
+
+Playmaker VS Varis
+[IDS_SOLO.CHAPTER90023_EXPLANATION]
+The Bounty Hunter
+
+Playmaker VS The Shepherd
+[IDS_SOLO.CHAPTER90024_EXPLANATION]
+The Bounty Hunter (reverse duel)
+
+Playmaker VS The Shepherd
+[IDS_SOLO.CHAPTER90025_EXPLANATION]
+Blue Gal's Here!
+
+Soulburner VS Blue Gal
+[IDS_SOLO.CHAPTER90026_EXPLANATION]
+Blue Gal's Here! (reverse duel)
+
+Soulburner VS Blue Gal
+[IDS_SOLO.CHAPTER90027_EXPLANATION]
+Tuning Rokkets
+
+Varis VS Windy
+[IDS_SOLO.CHAPTER90028_EXPLANATION]
+Tuning Rokkets (reverse duel)
+
+Varis VS Windy
+[IDS_SOLO.CHAPTER90029_EXPLANATION]
+Battle of the Siblings
+
+The Shepherd VS Ghost Gal
+[IDS_SOLO.CHAPTER90030_EXPLANATION]
+Battle of the Siblings (reverse duel)
+
+The Shepherd VS Ghost Gal
+[IDS_SOLO.CHAPTER90031_EXPLANATION]
+Friend or Foe
+
+Varis VS The Shepherd
+[IDS_SOLO.CHAPTER90032_EXPLANATION]
+Friend or Foe (reverse duel)
+
+Varis VS The Shepherd
+[IDS_SOLO.CHAPTER90033_EXPLANATION]
+Specter's Plan
+
+Lightning VS Spectre
+[IDS_SOLO.CHAPTER90034_EXPLANATION]
+Specter's Plan (reverse duel)
+
+Lightning VS Spectre
+[IDS_SOLO.CHAPTER90035_EXPLANATION]
+Windy's Revenge
+
+Soulburner VS Windy
+[IDS_SOLO.CHAPTER90036_EXPLANATION]
+Windy's Revenge (reverse duel)
+
+Soulburner VS Windy
+[IDS_SOLO.CHAPTER90037_EXPLANATION]
+A New World Coming
+
+Bohman VS Blue Maiden
+[IDS_SOLO.CHAPTER90038_EXPLANATION]
+A New World Coming (reverse duel)
+
+Bohman VS Blue Maiden
+[IDS_SOLO.CHAPTER90039_EXPLANATION]
+Burning Soul
+
+Bohman VS Soulburner
+[IDS_SOLO.CHAPTER90040_EXPLANATION]
+Burning Soul (reverse duel)
+
+Bohman VS Soulburner
+[IDS_SOLO.CHAPTER90041_EXPLANATION]
+Anything to Win
+
+Varis VS Lightning
+[IDS_SOLO.CHAPTER90042_EXPLANATION]
+Anything to Win (reverse duel)
+
+Varis VS Lightning
+[IDS_SOLO.CHAPTER90043_EXPLANATION]
+A Wish Entrusted
+
+Playmaker VS Bohman
+[IDS_SOLO.CHAPTER90044_EXPLANATION]
+A Wish Entrusted (reverse duel)
+
+Playmaker VS Bohman
+[IDS_SOLO.CHAPTER90045_EXPLANATION]
+Go Go Roboppi!
+
+Roboppi VS Ghost Gal
+[IDS_SOLO.CHAPTER90046_EXPLANATION]
+Go Go Roboppi! (reverse duel)
+
+Roboppi VS Ghost Gal
+[IDS_SOLO.CHAPTER90047_EXPLANATION]
+Unbreakable Spirit
+
+Ai VS The Gore
+[IDS_SOLO.CHAPTER90048_EXPLANATION]
+Unbreakable Spirit (reverse duel)
+
+Ai VS The Gore
+[IDS_SOLO.CHAPTER90049_EXPLANATION]
+Ai's Conundrum
+
+Ai VS Blue Maiden
+[IDS_SOLO.CHAPTER90050_EXPLANATION]
+Ai's Conundrum (reverse duel)
+
+Ai VS Blue Maiden
+[IDS_SOLO.CHAPTER90051_EXPLANATION]
+Roboppi's Dream
+
+Soulburner VS Roboppi
+[IDS_SOLO.CHAPTER90052_EXPLANATION]
+Roboppi's Dream (reverse duel)
+
+Soulburner VS Roboppi
+[IDS_SOLO.CHAPTER90053_EXPLANATION]
+Back to the Beginning
+
+Soulburner VS Varis
+[IDS_SOLO.CHAPTER90054_EXPLANATION]
+Back to the Beginning (reverse duel)
+
+Soulburner VS Varis
+[IDS_SOLO.CHAPTER90055_EXPLANATION]
+Separate Ways
+
+Playmaker VS Ai
+[IDS_SOLO.CHAPTER90056_EXPLANATION]
+Separate Ways (reverse duel)
+
+Playmaker VS Ai

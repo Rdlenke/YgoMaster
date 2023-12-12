@@ -32,16 +32,16 @@
     "UnlockAllCards": false,// [WARNING] Enabling this permanently wipes your saved cards (all cards are set to 3x without any shine/royal and any newly obtained cards don't save)
     "UnlockAllItems": false,// [WARNING] Enabling this permanently wipes your saved items
     "UnlockAllSoloChapters": false,// [WARNING] Enabling this permanently wipes your saved solo progress
-    "SoloRemoveDuelTutorials": false,
+    "SoloRemoveDuelTutorials": true,
     "SoloDisableNoShuffle": false,
     "SoloShowGateClearForAllSecretPacks": false,
-    "SoloRewardsInDuelResult": false,
+    "SoloRewardsInDuelResult": true,
     "SoloRewardsInDuelResultAreRare": false,
     "CardCraftableAll": false,
     "DisableNoDismantle": false,
-    "DisableBanList": false,
-    "ProgressiveCardList": false,
-    "ProgressiveCardRarities": false,
+    "DisableBanList": true,
+    "ProgressiveCardList": true,
+    "ProgressiveCardRarities": true,
     "FriendSearchLimit": 100,
     "FriendOfflineInSeconds": 300,
     "FriendRefreshInSeconds": 60,
@@ -91,7 +91,7 @@
     "TradeAllowOtherPlayerToRemoveYourCards": true,
     "TradeEnterRoomRequestDelayInSeconds": 1.5,
     "EmoteMaxLength": 1000,
-    "DefaultGems": 2000,
+    "DefaultGems": 2100,
     "DefaultItems": [
         1000001,// Rescue Rabbit (AVATAR)
         1010001,// Duelist (ICON)
@@ -103,12 +103,11 @@
         //1120001,// Starting Deck (STRUCTURE)
     ],
     "Craft": {
-        // Disabled craft point rollover (as this isn't something in the normal game)
-        //"CraftPointRollover": {
-        //   "Normal": { "at": 1000, "take": 500, "give": 30 },
-        //   "Rare": { "at": 1000, "take": 500, "give": 30 },
-        //   "SuperRare": { "at": 1000, "take": 500, "give": 30 }
-        //},
+        "CraftPointRollover": {
+           "Normal": { "at": 1000, "take": 500, "give": 30 },
+           "Rare": { "at": 1000, "take": 500, "give": 30 },
+           "SuperRare": { "at": 1000, "take": 500, "give": 30 }
+        },
         "Craft": {
             // Cost of crafting cards
             "Normal": {
@@ -130,27 +129,27 @@
                 "Royal": 999999
             }
         },
-        "CraftStyleRarity": {
-            // Shine/royal chance when crafting (delete to disable this)
-            "Normal": {
-                "Normal": 90,
-                "Shine": 10
-            },
-            "Rare": {
-                "Normal": 90,
-                "Shine": 10
-            },
-            "SuperRare": {
-                "Normal": 90,
-                "Shine": 9,
-                "Royal": 1
-            },
-            "UltraRare": {
-                "Normal": 90,
-                "Shine": 9,
-                "Royal": 1
-            }
-        },
+        //"CraftStyleRarity": {
+        //    // Shine/royal chance when crafting (delete to disable this)
+        //    "Normal": {
+        //        "Normal": 90,
+        //        "Shine": 10
+        //    },
+        //    "Rare": {
+        //        "Normal": 90,
+        //        "Shine": 10
+        //    },
+        //    "SuperRare": {
+        //        "Normal": 90,
+        //        "Shine": 9,
+        //        "Royal": 1
+        //    },
+        //    "UltraRare": {
+        //        "Normal": 90,
+        //        "Shine": 9,
+        //        "Royal": 1
+        //    }
+        //},
         "Dismantle": {
             // Rewards for dismantling cards
             "Normal": {
@@ -175,7 +174,7 @@
     },
     "DuelRewards": {
         "ChapterStatusChangedMultiplier": 1.0,
-        "ChapterStatusChangedNoRewards": true,
+        "ChapterStatusChangedNoRewards": false,
         "win": [
             {
                 "type": "Item",
