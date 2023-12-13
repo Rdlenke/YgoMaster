@@ -49,7 +49,7 @@
           "parent_gate": 0,
           "view_gate": 0,
           "unlock_id": 0,
-          "clear_chapter": 90055
+          "clear_chapter": 100002
         }
       },
       "chapter": {
@@ -2998,6 +2998,14 @@
             "set_id": 731,
             "mydeck_set_id": 732,
             "parent_chapter": 0,
+            "unlock_id": 0,
+            "begin_sn": "",
+            "npc_id":  1
+          },
+          "100002": {
+            "set_id": 731,
+            "mydeck_set_id": 732,
+            "parent_chapter": 100001,
             "unlock_id": 0,
             "begin_sn": "",
             "npc_id":  1

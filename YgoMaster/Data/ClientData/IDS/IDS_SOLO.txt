@@ -1950,3 +1950,6 @@ Duels for dummies (me)
 
 [IDS_SOLO.CHAPTER100001_EXPLANATION]
 Chapter for dummies (me)
+
+[IDS_SOLO.CHAPTER100002_EXPLANATION]
+Chapter 2 for dummies (me)
